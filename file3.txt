@@ -1,1 +1,2 @@
 This is file3.txt
+Additional content for file3.txt
